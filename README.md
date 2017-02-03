@@ -2,5 +2,5 @@
 Simple aplication using MyBatis + Log4J
 
 References:
-http://www.mybatis.org/mybatis-3/index.html
+<br> http://www.mybatis.org/mybatis-3/index.html </br>
 https://github.com/mybatis
